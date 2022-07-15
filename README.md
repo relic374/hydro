@@ -8,7 +8,11 @@ Currently it has the bare bones features needed to package an app, but please le
 ## Non-Python Dependencies
 1. Electron
 2. Electron Packager
+3. Python 3
+4. Pip (comes with python3)
 
 ## Install
-
-Install with `pipx hydro-relic374`. Run using `hydro`. 
+Do all this in the terminal:<br>
+<br>
+If you are on Windows, navigate to `src/hydro` and type `.\install.sh`
+If you are on MacOS or Linux, navigate to `src/hydro` and type `./install.sh`
