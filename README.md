@@ -19,4 +19,4 @@ If you are on MacOS or Linux, navigate to `src/hydro` and type `./install.sh`
 
 # Info
 To run, either double click on the executable or run it by entering in the terminal `.\hydro` on Windows and `./hydro` on MacOS & Linux.
-The executable it spits out will, per the default, be for your own operating system. To create executable for other platforms, run it like `.\hydro --spec` on Windows and `./hydro --spec` on MacOS and Linux.
+The executable it spits out will, per the default, be for your own operating system. To create executables for other platforms, run it like `.\hydro --spec` on Windows and `./hydro --spec` on MacOS and Linux.
