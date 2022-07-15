@@ -5,7 +5,7 @@ Currently it has the bare bones features needed to package an app, but please le
 
 # Installation
 
-## Non-Python Dependencies
+## Dependencies
 1. Electron
 2. Electron Packager
 3. Python 3
