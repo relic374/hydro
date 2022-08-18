@@ -8,6 +8,7 @@ Currently it has the bare bones features needed to package an app, but please le
 2. Electron Packager
 3. Python 3
 4. Pip (comes with python3)
+5. Python Termcolor (install with pip)
 
 ## Installation
 Do all this in the terminal:<br>
