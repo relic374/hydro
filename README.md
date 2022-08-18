@@ -13,7 +13,6 @@ Currently it has the bare bones features needed to package an app, but please le
 ## Installation
 Do all this in the terminal:<br>
 <br>
-If you are on Windows, navigate to `src\hydro` and type `.\install.sh`<br>
 If you are on MacOS or Linux, navigate to `src/hydro` and type `./install.sh`
 
 ## How to Run Hydro
