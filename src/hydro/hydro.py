@@ -7,8 +7,8 @@ windows = "windows"
 macos = "macos"
 linux = "linux"
 
-windows_comp = " pixelrailfight-mod --platform=win32 --asar --overwrite"
-linux_comp = " pixel-railfight-mod --overwrite --asar --platform=linux --prune=true"
+windows_comp = " --platform=win32 --asar --overwrite"
+linux_comp = " --overwrite --asar --platform=linux --prune=true"
 macos_comp = " --overwrite --platform=darwin --prune=true --asar"
 
 def main(os):
